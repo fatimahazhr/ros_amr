@@ -172,6 +172,8 @@ Waypoint files are saved as:
 ---
 
 ## 🖥️ UI Overview
+<img width="1062" height="942" alt="Screenshot from 2026-02-24 10-38-43" src="https://github.com/user-attachments/assets/00b48935-b6aa-45a6-b0e9-22251db54286" />
+
 
 | Panel | Contents |
 |-------|----------|
